@@ -1,0 +1,71 @@
+Crop,Soil_Type,N,P,K,pH,soil_moisture,Fertilizer_Name,Fertilizer_Dose,Application_Method,Season
+rice,Alluvial,80,40,40,5.5,30,Urea + SSP + MOP,120 kg/ha Urea + 150 kg/ha SSP + 60 kg/ha MOP,Basal + top dressing,Kharif
+rice,Clay,80,40,40,6.0,35,Urea + DAP,100 kg/ha Urea + 100 kg/ha DAP,Split application,Kharif
+rice,Laterite,90,50,45,5.0,35,Urea + SSP + MOP,130 kg/ha Urea + 170 kg/ha SSP + 70 kg/ha MOP,Basal + 2 splits,Kharif
+maize,Alluvial,80,40,20,5.5,50,Urea + DAP,120 kg/ha Urea + 100 kg/ha DAP,Basal + 2 top dressings,Kharif/Rabi
+maize,Black,90,50,25,6.5,45,Urea + SSP + MOP,140 kg/ha Urea + 150 kg/ha SSP + 50 kg/ha MOP,Basal + top dressing,Kharif
+maize,Sandy,70,35,20,5.5,55,Urea + SSP,100 kg/ha Urea + 120 kg/ha SSP,Split application,Kharif
+chickpea,Black,20,60,20,7.0,35,SSP + Rhizobium,80 kg/ha SSP + Rhizobium seed treatment,Basal,Rabi
+chickpea,Alluvial,20,60,20,6.5,30,DAP + MOP,50 kg/ha DAP + 30 kg/ha MOP,Basal,Rabi
+chickpea,Sandy,25,65,20,6.0,30,SSP + MOP,90 kg/ha SSP + 30 kg/ha MOP,Basal,Rabi
+wheat,Alluvial,120,60,40,6.5,45,Urea + DAP + MOP,150 kg/ha Urea + 125 kg/ha DAP + 60 kg/ha MOP,Basal + 2 splits,Rabi
+wheat,Black,110,55,40,7.0,40,Urea + SSP + MOP,140 kg/ha Urea + 175 kg/ha SSP + 60 kg/ha MOP,Basal + top dressing,Rabi
+wheat,Clay,120,60,40,6.5,50,Urea + DAP,150 kg/ha Urea + 125 kg/ha DAP,Split application,Rabi
+sugarcane,Alluvial,250,115,120,6.5,60,Urea + SSP + MOP,560 kg/ha Urea + 700 kg/ha SSP + 200 kg/ha MOP,Split over 3 stages,Annual
+sugarcane,Black,250,115,120,7.0,55,Urea + DAP + MOP,560 kg/ha Urea + 250 kg/ha DAP + 200 kg/ha MOP,Split over 3 stages,Annual
+sugarcane,Laterite,270,120,130,6.0,65,Urea + SSP + MOP,600 kg/ha Urea + 750 kg/ha SSP + 220 kg/ha MOP,Split over 4 stages,Annual
+cotton,Black,120,60,60,7.0,50,Urea + DAP + MOP,260 kg/ha Urea + 125 kg/ha DAP + 100 kg/ha MOP,Basal + 2 splits,Kharif
+cotton,Alluvial,120,40,20,5.5,70,Urea + SSP + MOP,260 kg/ha Urea + 125 kg/ha SSP + 33 kg/ha MOP,Basal + top dressing,Kharif
+cotton,Red,110,55,50,6.0,65,Urea + SSP + MOP,240 kg/ha Urea + 175 kg/ha SSP + 83 kg/ha MOP,Basal + 2 splits,Kharif
+banana,Alluvial,200,60,220,6.5,60,Urea + SSP + MOP,435 kg/ha Urea + 375 kg/ha SSP + 367 kg/ha MOP,Monthly split,Annual
+banana,Laterite,200,60,220,6.0,65,Urea + DAP + MOP,435 kg/ha Urea + 130 kg/ha DAP + 367 kg/ha MOP,Monthly split,Annual
+banana,Black,180,55,200,6.5,60,Urea + SSP + MOP,390 kg/ha Urea + 345 kg/ha SSP + 333 kg/ha MOP,Bi-monthly split,Annual
+potato,Alluvial,180,80,120,5.5,65,Urea + DAP + MOP,390 kg/ha Urea + 175 kg/ha DAP + 200 kg/ha MOP,Basal + 2 top dressings,Rabi
+potato,Sandy,175,80,120,5.5,60,Urea + SSP + MOP,380 kg/ha Urea + 500 kg/ha SSP + 200 kg/ha MOP,Split application,Rabi
+potato,Laterite,185,85,125,5.5,70,Urea + DAP + MOP,400 kg/ha Urea + 185 kg/ha DAP + 208 kg/ha MOP,Split application,Rabi
+tomato,Alluvial,120,80,80,6.0,60,Urea + DAP + MOP,260 kg/ha Urea + 175 kg/ha DAP + 133 kg/ha MOP,Basal + 3 splits,Kharif/Rabi
+tomato,Sandy,120,80,80,6.0,55,Urea + SSP + MOP,260 kg/ha Urea + 500 kg/ha SSP + 133 kg/ha MOP,Drip fertigation,Kharif/Rabi
+tomato,Black,110,75,80,6.5,60,Urea + DAP + MOP,240 kg/ha Urea + 163 kg/ha DAP + 133 kg/ha MOP,Basal + 2 splits,Rabi
+onion,Alluvial,100,50,50,6.5,55,Urea + SSP + MOP,220 kg/ha Urea + 315 kg/ha SSP + 83 kg/ha MOP,Basal + 2 splits,Rabi
+onion,Black,100,50,50,7.0,50,Urea + DAP + MOP,220 kg/ha Urea + 110 kg/ha DAP + 83 kg/ha MOP,Basal + top dressing,Rabi
+onion,Sandy,110,55,55,6.5,55,Urea + SSP + MOP,240 kg/ha Urea + 345 kg/ha SSP + 92 kg/ha MOP,Split application,Rabi
+groundnut,Red,20,40,40,6.5,40,SSP + Gypsum + MOP,125 kg/ha SSP + 200 kg/ha Gypsum + 67 kg/ha MOP,Basal,Kharif
+groundnut,Alluvial,20,40,40,6.5,45,SSP + Gypsum,125 kg/ha SSP + 200 kg/ha Gypsum,Basal,Kharif
+groundnut,Sandy,25,45,40,6.0,40,SSP + Gypsum + MOP,140 kg/ha SSP + 250 kg/ha Gypsum + 67 kg/ha MOP,Basal,Kharif
+soybean,Black,30,60,40,6.5,50,SSP + MOP + Rhizobium,375 kg/ha SSP + 67 kg/ha MOP + Rhizobium inoculant,Basal,Kharif
+soybean,Alluvial,30,60,40,6.0,50,DAP + MOP + Rhizobium,130 kg/ha DAP + 67 kg/ha MOP + Rhizobium inoculant,Basal,Kharif
+soybean,Red,35,65,45,6.0,50,SSP + MOP,400 kg/ha SSP + 75 kg/ha MOP,Basal,Kharif
+mango,Alluvial,75,35,75,5.5,25,Urea + SSP + MOP,163 kg/ha Urea + 219 kg/ha SSP + 125 kg/ha MOP,Split 3 times/year,Perennial
+mango,Laterite,80,40,80,5.0,20,Urea + SSP + MOP,174 kg/ha Urea + 250 kg/ha SSP + 133 kg/ha MOP,Split 3 times/year,Perennial
+mango,Red,75,35,75,5.5,20,Urea + SSP + MOP,163 kg/ha Urea + 219 kg/ha SSP + 125 kg/ha MOP,Split 3 times/year,Perennial
+coffee,Laterite,100,25,100,5.0,30,Urea + SSP + MOP,220 kg/ha Urea + 156 kg/ha SSP + 167 kg/ha MOP,3 splits/year,Perennial
+coffee,Alluvial,100,20,30,5.5,20,Urea + SSP + MOP,220 kg/ha Urea + 125 kg/ha SSP + 50 kg/ha MOP,3 splits/year,Perennial
+coffee,Red,110,25,105,5.0,25,Urea + SSP + MOP,240 kg/ha Urea + 156 kg/ha SSP + 175 kg/ha MOP,3 splits/year,Perennial
+jute,Alluvial,60,30,30,5.5,20,Urea + SSP + MOP,130 kg/ha Urea + 188 kg/ha SSP + 50 kg/ha MOP,Basal + top dressing,Kharif
+jute,Clay,60,30,30,6.0,25,Urea + SSP,130 kg/ha Urea + 188 kg/ha SSP,Basal + top dressing,Kharif
+coconut,Sandy,100,40,200,5.5,55,Urea + SSP + MOP,220 kg/ha Urea + 250 kg/ha SSP + 333 kg/ha MOP,Split quarterly,Perennial
+coconut,Laterite,100,40,200,5.5,50,Urea + SSP + MOP,220 kg/ha Urea + 250 kg/ha SSP + 333 kg/ha MOP,Split quarterly,Perennial
+pomegranate,Black,125,62,75,7.0,30,Urea + SSP + MOP,272 kg/ha Urea + 390 kg/ha SSP + 125 kg/ha MOP,Split 4 times/year,Perennial
+pomegranate,Alluvial,120,60,70,6.5,25,Urea + DAP + MOP,260 kg/ha Urea + 130 kg/ha DAP + 117 kg/ha MOP,Split 4 times/year,Perennial
+grapes,Black,80,60,80,6.5,40,Urea + SSP + MOP,174 kg/ha Urea + 375 kg/ha SSP + 133 kg/ha MOP,Split 4 times/year,Perennial
+grapes,Alluvial,80,60,80,6.0,45,Urea + DAP + MOP,174 kg/ha Urea + 130 kg/ha DAP + 133 kg/ha MOP,Split 4 times/year,Perennial
+orange,Alluvial,60,30,60,5.5,50,Urea + SSP + MOP,130 kg/ha Urea + 188 kg/ha SSP + 100 kg/ha MOP,Split 3 times/year,Perennial
+orange,Laterite,65,30,60,5.0,55,Urea + SSP + MOP,140 kg/ha Urea + 188 kg/ha SSP + 100 kg/ha MOP,Split 3 times/year,Perennial
+watermelon,Sandy,80,40,60,5.5,55,Urea + DAP + MOP,174 kg/ha Urea + 87 kg/ha DAP + 100 kg/ha MOP,Drip fertigation,Summer
+watermelon,Alluvial,80,40,60,5.5,60,Urea + SSP + MOP,174 kg/ha Urea + 250 kg/ha SSP + 100 kg/ha MOP,Basal + 2 splits,Summer
+muskmelon,Sandy,80,40,50,5.5,35,Urea + DAP + MOP,174 kg/ha Urea + 87 kg/ha DAP + 83 kg/ha MOP,Drip fertigation,Summer
+muskmelon,Alluvial,80,40,50,5.5,30,Urea + SSP + MOP,174 kg/ha Urea + 250 kg/ha SSP + 83 kg/ha MOP,Basal + 2 splits,Summer
+papaya,Alluvial,200,150,250,6.5,40,Urea + DAP + MOP,435 kg/ha Urea + 325 kg/ha DAP + 417 kg/ha MOP,Monthly split,Annual
+papaya,Sandy,210,160,260,6.0,40,Urea + SSP + MOP,456 kg/ha Urea + 1000 kg/ha SSP + 433 kg/ha MOP,Monthly split,Annual
+apple,Mountain,70,35,70,6.5,55,Urea + SSP + MOP,152 kg/ha Urea + 219 kg/ha SSP + 117 kg/ha MOP,Split 3 times/year,Perennial
+apple,Clay,75,40,75,6.5,50,Urea + DAP + MOP,163 kg/ha Urea + 87 kg/ha DAP + 125 kg/ha MOP,Split 3 times/year,Perennial
+lentil,Alluvial,20,40,20,6.5,45,SSP + Rhizobium,250 kg/ha SSP + Rhizobium seed treatment,Basal,Rabi
+lentil,Black,20,40,20,7.0,40,DAP + Rhizobium,87 kg/ha DAP + Rhizobium seed treatment,Basal,Rabi
+blackgram,Alluvial,20,50,20,6.0,50,SSP + Rhizobium,312 kg/ha SSP + Rhizobium inoculant,Basal,Kharif/Rabi
+blackgram,Red,25,55,20,5.5,55,SSP + MOP,345 kg/ha SSP + 33 kg/ha MOP,Basal,Kharif
+mungbean,Alluvial,20,40,20,6.0,60,SSP + Rhizobium,250 kg/ha SSP + Rhizobium inoculant,Basal,Kharif/Summer
+mungbean,Black,20,40,20,6.5,55,DAP + Rhizobium,87 kg/ha DAP + Rhizobium inoculant,Basal,Kharif
+kidneybeans,Alluvial,20,60,20,5.5,50,SSP + MOP,375 kg/ha SSP + 33 kg/ha MOP,Basal,Kharif
+pigeonpeas,Black,20,50,20,6.5,40,SSP + Rhizobium,312 kg/ha SSP + Rhizobium inoculant,Basal,Kharif
+pigeonpeas,Red,20,50,20,6.0,45,SSP + MOP,312 kg/ha SSP + 33 kg/ha MOP,Basal,Kharif
+mothbeans,Arid,20,40,20,7.0,25,SSP,250 kg/ha SSP,Basal,Kharif
