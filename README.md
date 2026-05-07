@@ -47,6 +47,11 @@ Open Terminal/Command Prompt
 ```bash
 git clone https://github.com/sonu-cpp/Krushi_Mitra
 ```
+
+### Open Terminal
+
+For Windows the Cloned repositories are usually present in Documents -> GitHub Desktop 
+
 ### Activate the Virtual Environment
 
 #### Windows (PowerShell)
